@@ -15,21 +15,6 @@
             <artifactId>jsoup</artifactId>
             <version>1.13.1</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.openqa.selenium/selenium-rc -->
-        <dependency>
-            <groupId>org.openqa.selenium</groupId>
-            <artifactId>selenium-rc</artifactId>
-            <version>1.0-20081010.060147</version>
-            <type>pom</type>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-firefox-driver</artifactId>
-            <version>3.4.0</version>
-        </dependency>
-
-
-
     </dependencies>
 
     <properties>
